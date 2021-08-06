@@ -1,0 +1,2 @@
+You can download Git software from the link below.
+https://git-scm.com/downloads
